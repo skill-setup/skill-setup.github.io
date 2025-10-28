@@ -58,9 +58,11 @@ Web developers have diverse employment opportunities ranging from:
 - **Modern Technologies**: Stay current with industry trends and best practices
 - **Professional Development**: Build both technical and soft skills
 
+<!--
 ## Ready to Start Your Web Development Journey?
 
-[Begin Learning](/docs/intro) | [View Curriculum](/docs) | [Join Community](/blog) | [GitHub Repository](https://github.com/skill-setup/skill-setup.github.io)
+[Begin Learning](/docs/intro) | [Join Community](/blog) | [GitHub Repository](https://github.com/skill-setup/skill-setup.github.io) 
+-->
 
 ---
 
